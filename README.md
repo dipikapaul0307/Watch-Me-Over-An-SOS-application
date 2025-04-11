@@ -43,15 +43,12 @@ This design is part of a larger vision to build an Android-based SOS alert app. 
 
 ---
 
-## 🔗 Prototype & Figma File
-
-👉 ![Figma Design](https://your-figma-thumbnail-or-screenshot.png)
-
 ## 🎨 Figma Design Preview
 
-[![View Design in Figma](https://i.imgur.com/U7E1MZc.png)](https://www.figma.com/design/uMFi6gNS3uYxK4xv56RgUF/Untitled?node-id=0-1&t=LGAcMQSgswNozgyt-1)
+[![Watch Me Over](12.png)](https://www.figma.com/design/uMFi6gNS3uYxK4xv56RgUF/Watch_Me_Over?node-id=0-1&t=50sgAzPZn7OOPsu1-1)
+
 > Click the image to explore the full design in Figma.
-🔒 Permissions: *Anyone with the link can view*
+> 🔒 Permissions: *Anyone with the link can view*
 
 ---
 
