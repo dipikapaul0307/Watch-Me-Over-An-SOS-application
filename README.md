@@ -36,7 +36,7 @@ This design is part of a larger vision to build an Android-based SOS alert app. 
 
 ## 🎤 Presentation Deck
 
-📥 [Download Presentation PDF](./assets/presentation/Watch_Me_Over_Presentation.pdf)
+📥 [Download Presentation PDF](assets/presentation/Watch%20Me%20Over.pdf)
 
 ---
 
