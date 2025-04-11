@@ -25,8 +25,8 @@ This design is part of a larger vision to build an Android-based SOS alert app. 
     <img src="emergency.png" alt="emergency" width="250"/><!-- 7 -->
     <img src="intro.png" alt="intro" width="250"/><!-- 9 -->
     <img src="history.png" alt="history" width="250"/><!-- 8 -->
-    <img src="notification on friends phone.png" alt="notifications" width="250"/><!-- 13 -->
     <img src="home.png" alt="home" width="250"/><!-- 12 -->
+    <img src="notification on friends phone.png" alt="notifications" width="250"/><!-- 13 -->
     <img src="lockscreen.png" alt="lockscreen" width="250"/><!-- 10 -->
     <img src="lockscreen-1.png" alt="lockscreen-1" width="250"/><!-- 11 -->
 </p>
