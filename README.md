@@ -1,9 +1,7 @@
 # ⌚ Watch Me Over – An SOS Application
 
 <p align="center">
-  <a href="https://www.figma.com/design/uMFi6gNS3uYxK4xv56RgUF/Untitled?node-id=0-1&t=LGAcMQSgswNozgyt-1">
-    <img src="./assets/images/app-logo.png" alt="Watch Me Over Logo" width="150"/>
-  </a>
+    <img src="app-logo.png" alt="Watch Me Over Logo" width="250"/>
 </p>
 
 A modern emergency-response mobile application design that integrates smartwatch connectivity to provide timely alerts and support during crises. Designed in Figma, this concept emphasizes **quick access**, **clean UI**, and **real-world usability**.
@@ -18,6 +16,13 @@ This design is part of a larger vision to build an Android-based SOS alert app. 
 
 ## 📸 Design Screens
 
+![Figma Screenshot](./assets/screenshots/figma-overview.png)
+![Figma Screenshot](./assets/screenshots/figma-overview.png)
+![Figma Screenshot](./assets/screenshots/figma-overview.png)
+![Figma Screenshot](./assets/screenshots/figma-overview.png)
+![Figma Screenshot](./assets/screenshots/figma-overview.png)
+![Figma Screenshot](./assets/screenshots/figma-overview.png)
+![Figma Screenshot](./assets/screenshots/figma-overview.png)
 ![Figma Screenshot](./assets/screenshots/figma-overview.png)
 
 ---
