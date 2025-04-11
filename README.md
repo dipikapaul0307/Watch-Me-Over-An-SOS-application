@@ -15,16 +15,21 @@ This design is part of a larger vision to build an Android-based SOS alert app. 
 ---
 
 ## 📸 Design Screens
-
-![Figma Screenshot](./assets/screenshots/figma-overview.png)
-![Figma Screenshot](./assets/screenshots/figma-overview.png)
-![Figma Screenshot](./assets/screenshots/figma-overview.png)
-![Figma Screenshot](./assets/screenshots/figma-overview.png)
-![Figma Screenshot](./assets/screenshots/figma-overview.png)
-![Figma Screenshot](./assets/screenshots/figma-overview.png)
-![Figma Screenshot](./assets/screenshots/figma-overview.png)
-![Figma Screenshot](./assets/screenshots/figma-overview.png)
-
+<p>
+    <img src="hello.png" alt="hello" width="250"/>
+    <img src="login.png" alt="login" width="250"/>
+    <img src="signup.png" alt="signup" width="250"/>
+    <img src="body meausrement.png" alt="body meausrement" width="250"/>
+    <img src="settings.png" alt="settings" width="250"/>
+    <img src="home-1.png" alt="home-1" width="250"/>
+    <img src="emergency.png" alt="emergency" width="250"/>
+    <img src="history.png" alt="history" width="250"/>
+    <img src="intro.png" alt="intro" width="250"/>
+    <img src="lockscreen.png" alt="lockscreen" width="250"/>
+    <img src="lockscreen-1.png" alt="lockscreen-1" width="250"/>
+    <img src="home.png" alt="home" width="250"/>
+    <img src="notification on friends phone.png" alt="notifications" width="250"/>
+</p>
 ---
 
 ## 🧪 Key Features (Planned for Development)
